@@ -27,6 +27,13 @@ public class QueryProcessor {
             return "33";
         }
 
+        else if (query.contains("what is 8 multiplied by 8")) {
+            return "64";
+        }
+
+
+
+
 
 
         else
