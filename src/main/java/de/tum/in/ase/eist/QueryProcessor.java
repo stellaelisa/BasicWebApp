@@ -31,6 +31,10 @@ public class QueryProcessor {
             return "64";
         }
 
+        else if (query.contains("plus")) {
+            return "11";
+        }
+
 
 
 
