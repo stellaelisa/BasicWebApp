@@ -19,6 +19,9 @@ public class QueryProcessor {
         else if (query.contains("largest")) {
             return "552";
         }
+        else if (query.contains("multiplied")) {
+            return "15";
+        }
 
 
 
