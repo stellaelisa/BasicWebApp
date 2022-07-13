@@ -2,7 +2,6 @@
 
 
 For this exercise we will use an automated build pipeline to deploy a simple web application. We will use GitHub Actions and Heroku, which should be easy to set up.
-
 ### Set Up A Build Pipeline
 #### Fork our web app on GitHub, clone it and get it running locally
 Fork this repo into your own GitHub account.
